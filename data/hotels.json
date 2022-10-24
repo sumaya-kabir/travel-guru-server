@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Sheraton",
+        "img": "http://photos.wikimapia.org/p/00/07/89/81/68_big.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pan Pacific Sonargaon",
+        "img": "https://ik.imgkit.net/3vlqs5axxjf/external/http://media.iceportal.com/83499/photos/2730503_XL.jpg?tr=w-360%2Ch-379%2Cfo-auto"
+    },
+    {
+        "id": 3,
+        "name": "Radison Blue",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GRE80lf7_4AXsfWt0Sot5hmgo8CNBh1QDA&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Le Maridian",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/25/3f/5e/b3/exterior-evening.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Westin",
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-5ca13eb33832839d24efff49f0080cae.webp"
+    }
+]
